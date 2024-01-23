@@ -1,0 +1,15 @@
+[
+	{
+		"title": "Only Layer Testnet",
+		"url": "https://onlyscan.info",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/layeronly/frontend-configs/main/configs/network-icons/only-layer-icon.svg",
+    "isActive": true
+	},
+	{
+		"title": "Only Layer Mainnet [Coming Soon]",
+		"url": "https://onlyscan.info",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/layeronly/frontend-configs/main/configs/network-icons/only-layer-icon.svg"
+	}
+]
