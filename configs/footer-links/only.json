@@ -1,23 +1,23 @@
 [
-    {
-    "title": "Partners",
-    "links": [
-      {
-        "text": "Comingsoon",
-        "url": "#"
-      },
-      {
-        "text": "Comingsoon",
-        "url": "#"
-      },
-      {
-        "text": "Comingsoon",
-        "url": "#"
-      },
-      {
-        "text": "Comingsoon",
-        "url": "#"
-      }
-    ]
-  }
+	{
+		"title": "Partners",
+		"links": [
+			{
+				"text": "Comingsoon",
+				"url": "https://onlylayer.com"
+			},
+			{
+				"text": "Comingsoon",
+				"url": "https://onlylayer.com"
+			},
+			{
+				"text": "Comingsoon",
+				"url": "https://onlylayer.com"
+			},
+			{
+				"text": "Comingsoon",
+				"url": "https://onlylayer.com"
+			}
+		]
+	}
 ]
