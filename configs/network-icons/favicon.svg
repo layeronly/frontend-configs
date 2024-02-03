@@ -1,24 +1,24 @@
-<svg width="22" height="23" viewBox="0 0 22 23" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M22 13.8828L13 23V16.1182L21.999 7L22 13.8828Z" fill="url(#paint0_linear_137_12)"/>
-<path d="M8.09398 21H0V16H13L8.09398 21Z" fill="url(#paint1_linear_137_12)"/>
-<path d="M13.906 2H22V7H9L13.906 2Z" fill="url(#paint2_linear_137_12)"/>
-<path d="M0 9.11821L9 0V6.88284L0 16V9.11821Z" fill="url(#paint3_linear_137_12)"/>
-<defs>
-<linearGradient id="paint0_linear_137_12" x1="5.85441" y1="26.7996" x2="26.1383" y2="6.77765" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3D3DEA"/>
-<stop offset="1" stop-color="#6489FF"/>
-</linearGradient>
-<linearGradient id="paint1_linear_137_12" x1="0.714798" y1="21.8958" x2="21.5497" y2="1.44705" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3D3DEA"/>
-<stop offset="1" stop-color="#6489FF"/>
-</linearGradient>
-<linearGradient id="paint2_linear_137_12" x1="0.523169" y1="22.2593" x2="21.3591" y2="1.81167" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3D3DEA"/>
-<stop offset="1" stop-color="#6489FF"/>
-</linearGradient>
-<linearGradient id="paint3_linear_137_12" x1="-4.1802" y1="16.7953" x2="16.1037" y2="-3.22669" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3D3DEA"/>
-<stop offset="1" stop-color="#6489FF"/>
-</linearGradient>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 22 23">
+  <path fill="url(#favicon_svg__a)" d="M22 13.883 13 23v-6.882L21.999 7 22 13.883Z"/>
+  <path fill="url(#favicon_svg__b)" d="M8.094 21H0v-5h13l-4.906 5Z"/>
+  <path fill="url(#favicon_svg__c)" d="M13.906 2H22v5H9l4.906-5Z"/>
+  <path fill="url(#favicon_svg__d)" d="M0 9.118 9 0v6.883L0 16V9.118Z"/>
+  <defs>
+    <linearGradient id="favicon_svg__a" x1="5.854" x2="26.138" y1="26.8" y2="6.778" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3D3DEA"/>
+      <stop offset="1" stop-color="#6489FF"/>
+    </linearGradient>
+    <linearGradient id="favicon_svg__b" x1=".715" x2="21.55" y1="21.896" y2="1.447" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3D3DEA"/>
+      <stop offset="1" stop-color="#6489FF"/>
+    </linearGradient>
+    <linearGradient id="favicon_svg__c" x1=".523" x2="21.359" y1="22.259" y2="1.812" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3D3DEA"/>
+      <stop offset="1" stop-color="#6489FF"/>
+    </linearGradient>
+    <linearGradient id="favicon_svg__d" x1="-4.18" x2="16.104" y1="16.795" y2="-3.227" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3D3DEA"/>
+      <stop offset="1" stop-color="#6489FF"/>
+    </linearGradient>
+  </defs>
 </svg>
